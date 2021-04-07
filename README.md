@@ -9,3 +9,5 @@ This project uses STM32CubeIDE 1.6.0 and STM32CubeMX.
 You can debug with STM32CubeIDE.
 
 ![ss](/ss.jpg) 
+
+![ss2](/ss2.jpg) 
