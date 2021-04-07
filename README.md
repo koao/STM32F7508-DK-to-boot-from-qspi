@@ -7,3 +7,5 @@ When executed, the LCD backlight will blink.
 This project uses STM32CubeIDE 1.6.0 and STM32CubeMX.
 
 You can debug with STM32CubeIDE.
+
+![ss](/ss.jpg) 
